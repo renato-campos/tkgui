@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: criar calculadora usando os conhecimento abordados
 from tkinter import *
 
 def btn_click(numero):
@@ -21,7 +22,7 @@ def result():
 janela = Tk()
 janela.title('Calculadora Simples')
 
-# Cria o widget e posiciona
+# caixa de texto
 entrada = Entry(janela, width=35, borderwidth=5)
 entrada.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 entrada.get()

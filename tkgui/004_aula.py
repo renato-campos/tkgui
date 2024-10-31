@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: trabalhar com entrada de texto
 from tkinter import *
 
 janela = Tk()

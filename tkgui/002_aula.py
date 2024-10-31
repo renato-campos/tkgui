@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: posicionar as ferramentas através do grid
 from tkinter import *
 
 janela = Tk()

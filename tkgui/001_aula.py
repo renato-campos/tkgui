@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: criar uma janela do aplicativo e inserir rótulo
 from tkinter import *
 
 janela = Tk()

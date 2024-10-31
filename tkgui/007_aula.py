@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: aprimorar a calculadora
 from tkinter import *
 
 def btn_click(numero):

@@ -1,3 +1,4 @@
+# OBJETIVO DA AULA: formatações dos botões
 from tkinter import *
 
 janela = Tk()
