@@ -29,9 +29,10 @@ lista = [
 ]
 
 for tupla in lista:
-    Radiobutton(app, text=tupla[0], variable=var, value=tupla[1], command=var.get()).pack()
+    Radiobutton(app, text=tupla[0], variable=var, value=tupla[1], command=var.get()).pack(anchor=W)
 
+#label = Label(app, text=var.get()).pack()
 
-label = Label(app, text=var.get()).pack()
+btn = Button(app, text='Clique!', command=lambda: click(var.get())).pack()
 
 app.mainloop()
