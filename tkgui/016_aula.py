@@ -1,4 +1,4 @@
-# OBJETIVO DA AULA: barras de rolagem
+# OBJETIVO DA AULA: barras de rolagem dosadoras
 from tkinter import *
 
 
